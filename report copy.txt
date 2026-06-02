@@ -1,0 +1,9 @@
+SSH BRUTE FORCE DETECTION REPORT
+===================================
+
+Suspicious IP: 203.0.113.45
+Failed Attempts: 5
+Risk Level: MEDIUM
+Most Targeted Username: cyber
+
+Possible SSH Brute Force Attack Detected
